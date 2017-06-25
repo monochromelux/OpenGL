@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (기말과제.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  스카이로드.cpp
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(28): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(39): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(40): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(125): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(126): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(136): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(141): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(142): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(260): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(378): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\기말과제\기말과제\스카이로드.cpp(381): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  기말과제.vcxproj -> C:\Users\ggrr1\Documents\Visual Studio 2015\Projects\기말과제\Debug\LastHomework.exe
+  기말과제.vcxproj -> C:\Users\ggrr1\Documents\Visual Studio 2015\Projects\기말과제\Debug\LastHomework.pdb (Full PDB)

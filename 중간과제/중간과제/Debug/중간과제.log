@@ -1,0 +1,6 @@
+﻿  중간과제.cpp
+c:\users\ggrr1\documents\visual studio 2015\projects\중간과제\중간과제\중간과제.cpp(21): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\중간과제\중간과제\중간과제.cpp(31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\ggrr1\documents\visual studio 2015\projects\중간과제\중간과제\중간과제.cpp(40): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  중간과제.vcxproj -> C:\Users\ggrr1\Documents\Visual Studio 2015\Projects\중간과제\Debug\중간과제.exe
+  중간과제.vcxproj -> C:\Users\ggrr1\Documents\Visual Studio 2015\Projects\중간과제\Debug\중간과제.pdb (Full PDB)
